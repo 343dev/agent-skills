@@ -1,3 +1,5 @@
+<img src="agent-skills.svg" alt="Stylized green portrait of a person wearing sunglasses, formed with horizontal glitch-like lines." title="Never send a human to do a machine's job." width="128">
+
 # Agent Skills
 
 This repository contains reusable [Agent Skills](https://agentskills.io/home): packaged instructions that teach AI coding agents how to handle specific workflows consistently.
