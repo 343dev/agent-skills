@@ -6,6 +6,7 @@ This repository contains reusable [Agent Skills](https://agentskills.io/home): p
 
 ## Skills
 
+- [backlog](./backlog/) - Manages deferred engineering work as one Markdown file per issue in `docs/backlog/`. Supports listing, review, triage, and authorized changes, with branch and file safety checks to preserve existing work.
 - [clig-audit](./clig-audit/) - User-invoked, evidence-based CLI codebase audit against [CLIG](https://clig.dev/). Produces a Markdown report with severity, source locations, and implementation guidance without changing code.
 - [frontend-architecture](./frontend-architecture/) - User-invoked frontend architecture design and review focused on the cost of change. Guides decisions about responsibilities, boundaries, dependency direction, state, and lifecycle ownership, with explicit trade-offs and safeguards against overarchitecture.
 - [perfect-code-review](./perfect-code-review/) - User-invoked, risk-driven review of proposed code changes. Verifies candidate findings against counterevidence and separates severity, merge impact, and confidence; permits zero findings.
